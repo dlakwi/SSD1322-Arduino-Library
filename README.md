@@ -1,5 +1,5 @@
 # SSD1322-Arduino-Library
-Arduino library for a SSD1322 256x64 display
+Arduino library for a SSD1322 256x64 parallel interface display
 
 The SSD1322 display controller has graphics display memory (GDRAM) of 480x128 4-bit (16 grayscale) pixels.
 The GDRAM stores four 4-bit pixels in each addressable word. So, the GDRAM address range is 120x128.
